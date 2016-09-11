@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "test1",
+    "packageName": "com.nizar.trainings",
+    "packageFolder": "com/nizar/trainings",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": false,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "e8c4c9b4894d3b258ad24912b41dd9444d7ab259",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
