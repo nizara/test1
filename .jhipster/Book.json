@@ -1,0 +1,19 @@
+{
+    "relationships": [],
+    "fields": [
+        {
+            "fieldId": 1,
+            "fieldName": "book_name",
+            "fieldType": "String"
+        },
+        {
+            "fieldId": 2,
+            "fieldName": "book_author",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20160911155708",
+    "dto": "mapstruct",
+    "service": "serviceClass",
+    "pagination": "no"
+}
